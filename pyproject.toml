@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "softgrep"
+version = "0.1.0"
+description = "Soft grep"
+authors = ["Hiroyuki Deguchi <deguchi.hiroyuki.db0@is.naist.jp>"]
+license = "MIT"
+readme = "README.rst"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+torch = "^2.2.2"
+transformers = "^4.40.0"
+
+[tool.poetry.group.dev.dependencies]
+ruff = "^0.4.2"
+mypy = "^1.9.0"
+pre-commit = "^3.7.0"
+pytest = "^8.1.1"
+pytest-cov = "^5.0.0"
+
+[tool.ruff.lint]
+extend-select = ["I"]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
