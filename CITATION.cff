@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
+authors:
+  - family-names: Deguchi
+    given-names: Hiroyuki
+  - family-names: Kamoda
+    given-names: Go
+  - family-names: Matsushita
+    given-names: Yusuke
+  - family-names: Taguchi
+    given-names: Chihiro
+  - family-names: Waga
+    given-names: Masaki
+  - family-names: Suenaga
+    given-names: Kohei
+  - family-names: Yokoi
+    given-names: Sho
+title: 'SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches'
+url: https://openreview.net/forum?id=Q6PAnqYVpo
+preferred-citation:
+  authors:
+    - family-names: Deguchi
+      given-names: Hiroyuki
+    - family-names: Kamoda
+      given-names: Go
+    - family-names: Matsushita
+      given-names: Yusuke
+    - family-names: Taguchi
+      given-names: Chihiro
+    - family-names: Waga
+      given-names: Masaki
+    - family-names: Suenaga
+      given-names: Kohei
+    - family-names: Yokoi
+      given-names: Sho
+  title: 'SoftMatcha: A Soft and Fast Pattern Matcher for Billion-Scale Corpus Searches'
+  url: https://openreview.net/forum?id=Q6PAnqYVpo
+  type: conference-paper
+  year: '2025'
+  collection-title: The Thirteenth International Conference on Learning Representations (ICLR 2025)
+  conference: {}
+  publisher: {}
