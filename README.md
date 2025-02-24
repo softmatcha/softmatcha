@@ -8,7 +8,7 @@ A soft and fast pattern matcher for billion-scale corpora.
 
 <p align="center">
 <a href="https://pypi.org/project/softmatcha"><img alt="PyPi" src="https://img.shields.io/pypi/v/softmatcha"></a>
-<a href="https://github.com/softmatcha/softmatcha/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/softmathca/sotmatcha.svg"></a>
+<a href="https://github.com/softmatcha/softmatcha/blob/main/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/softmatcha/softmatcha.svg"></a>
 <a href=""><img src="https://github.com/softmatcha/softmatcha/actions/workflows/ci.yaml/badge.svg"></a>
 </p>
 <p align="center">
