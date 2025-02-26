@@ -14,8 +14,7 @@ A soft and fast pattern matcher for billion-scale corpora.
 <p align="center">
 <b>
       <a href="https://openreview.net/forum?id=Q6PAnqYVpo">Paper</a> |
-      <a href="https://softmatcha.github.io">Website</a> |
-      <a href="https://huggingface.co/softmatcha">Demo</a> |
+      <a href="https://softmatcha.github.io">Website & Demo</a> |
       <!-- <a href="https://softmatcha.readthedocs.io">Reference docs</a> | -->
       <a href="https://github.com/softmatcha/softmatcha#citation">Citation</a>
 </b>
